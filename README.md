@@ -2,12 +2,6 @@
 
 A JavaScript library that glues your website's sidebars (or any vertical column for that matter), making them permanently visible when scrolling up and down. Useful when a sidebar is too tall or too short compared to the rest of the content. Works with virtually any design and supports multiple sidebars.
 
-## WordPress
-
-[![Theia Sticky Sidebar for WordPress](https://github.com/liviucmg/theia-sticky-sidebar/blob/master/assets/theia-sticky-sidebar-for-wordpress-banner.png)](https://wecodepixels.com/shop/theia-sticky-sidebar-for-wordpress/)
-
-Also available as a [premium WordPress plugin](https://wecodepixels.com/shop/theia-sticky-sidebar-for-wordpress/) that comes with a user-friendly admin panel and supports a plethora of themes out-of-the-box.
-
 ## Examples
 
 [3 columns example](http://theia-sticky-sidebar.wecodepixels.com/examples/3-columns.html)
@@ -18,25 +12,9 @@ Also available as a [premium WordPress plugin](https://wecodepixels.com/shop/the
 
 [Foundation example](http://theia-sticky-sidebar.wecodepixels.com/examples/foundation.html)
 
-## Install
-
-### Bower
-
-If you are using Bower as your package manager:
-
-```bash
-bower install theia-sticky-sidebar
-```
-
-### NPM
-
-If you are using NPM as your package manager:
-
-```bash
-npm install theia-sticky-sidebar
-```
 
 ## Usage
+Include "dist/theia-sticky-sidebar.min.js" in your HTML document.
 
 Your website's HTML structure has to be similar to this in order to work:
 
@@ -118,6 +96,15 @@ The sidebar must have a non-static `position`, as the inner sticky-sidebar uses 
 
 Events are binded using a namespace, so that you may unbind them later on without affecting others. Defaults to **TSS**.
 
+
 ## Credits
+
+### Original Creator
+- [Original Creator's Name](link-to-original-profile) - [Link to Original Repository](link-to-original-repository)
+
+### Acknowledgements
+- Special thanks to WeCodePixels team for creating the original repository and allowing me to fork it.
+- I would like to express my gratitude to WeCodePixels for their contributions to the project.
+- Thanks to the contributors of the original repository https://github.com/WeCodePixels/theia-sticky-sidebar for their valuable work and inspiration.
 
 Stock photos courtesy of [Unsplash.com](https://unsplash.com/)
