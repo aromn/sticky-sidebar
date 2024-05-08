@@ -100,7 +100,7 @@ Events are binded using a namespace, so that you may unbind them later on withou
 ## Credits
 
 ### Original Creator
-- [Original Creator's Name](link-to-original-profile) - [Link to Original Repository](link-to-original-repository)
+- WeCodePixels - https://github.com/WeCodePixels
 
 ### Acknowledgements
 - Special thanks to WeCodePixels team for creating the original repository and allowing me to fork it.
